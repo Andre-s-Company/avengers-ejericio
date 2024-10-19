@@ -5,4 +5,5 @@
 * Dr. Herrera
 * Dr. Simi
 * Thanos
+* Dr. Octopus
 * Otra cosa
