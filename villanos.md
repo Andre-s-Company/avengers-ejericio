@@ -6,4 +6,5 @@
 * Dr. Simi
 * Thanos
 * Dr. Octopus
+* Claudia Sheinbaum (Es eterna)
 * Otra cosa
